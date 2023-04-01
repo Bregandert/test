@@ -5,7 +5,7 @@ public class Main {
 Make (add code to class Tank),
 with fuel and different constructors
 */
-
+        System.out.println("Тест");
         // At (0;0) fuel=100
         Tank justTank = new Tank();
         // At (10;10) fuel=100
